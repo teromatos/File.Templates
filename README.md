@@ -15,9 +15,9 @@ File Templates
 
 - .gitignore - Standard .gitignore file
 - .gitattributes - Standard .gitattributes file
-
+- LICENSE.txt - License template for projects
+- 
 **Markdown files**
 
 - README.md - Readme template for projects
-- LICENSE.md - License template for projects
 - acknowledgments.md - Acknowledgments template for projects
