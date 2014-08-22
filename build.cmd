@@ -66,25 +66,25 @@ goto end
 echo.
 echo Invalid solution filename.
 echo.
-goto Syntax
+goto Usage
 
 :FileNotFound
 echo.
 echo File not found, %1
 echo.
-goto Syntax
+goto Usage
 
 :InvalidPlatform
 echo.
 echo Invalid platform in command line arguments
 echo.
-goto Syntax
+goto Usage
 
 :InvalidTarget
 echo.
 echo Invalid target in command line arguments
 echo.
-goto Syntax
+goto Usage
 
 :Usage
 echo.
